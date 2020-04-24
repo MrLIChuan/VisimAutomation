@@ -1,0 +1,31 @@
+; VisSim Block Diagram Format (VBDF)
+; Copyright ©1989-2005 Visual Solutions
+PV=7.000A7
+PS=0
+PE=1
+PP=0.01
+PI=172
+PX=1
+PN=1e-006
+PL=250
+PT=1e-005
+Pn=-10,6,16,"Times New Roman",18,0,400,2,0,1,0,1
+Pc=1
+Po=1,50,664,0
+Ppl=0
+Ppp=0
+Ppt=0
+Ppf=1
+Pe=0
+PD=1600x900
+Pf=0x0
+Ps=4799,0,0,3599,0,0
+PM=1,1,1,1
+PvC=512,1024,"",0,""
+N.1="import"@225x176
+n="I:\\S3\\AU3\\TP3\\tapis\\ETATE.dat"
+dl=0
+di=0.001
+dS=9
+G.0=1,
+cEOF
